@@ -1,4 +1,4 @@
 # Design studio website
- Contains desktop and mobile versions
+ Contains only desktop version
 
-В файле "index.html" содержится вёрстка для декстопной верcии, в файле "index-mobile.html" - для мобильной. Соответствующие стили расположены в папке "styles", шрифты - в папке "fonts", картинки для обеих версий - в "images".
+В файле "index.html" содержится вёрстка для декстопной верcии. Соответствующие стили расположены в папке "styles", шрифты - в папке "fonts", картинки для обеих версий - в "images".
